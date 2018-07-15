@@ -2,7 +2,7 @@
 
 Homepage: https://www.honeybee-spellchecker.com
 
-![YAP](/docs/homepage.png)
+![YAP](/docs/home.png)
 
 ## How to Use
 
@@ -15,7 +15,7 @@ The naming convention is simple:
 
 ## Testing the phrase: "wodner"
 
-![YAP](/docs/test.png)
+![YAP](/docs/testing.png)
 
 ## Issues
 
